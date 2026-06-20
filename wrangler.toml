@@ -14,7 +14,7 @@ binding = "R2"
 bucket_name = "twikoo"
 
 [vars]
-R2_PUBLIC_URL = "http://twikoo.r2.910.qzz.io"
+R2_PUBLIC_URL = "http://twzz.io"
 
 [dev]
 port = 5000
